@@ -11,6 +11,7 @@ public class PlayerController : MonoBehaviour {
 	public Vector3 origin;
 	public Text countText;
 	public Text winText;
+	public int winVal;
 
 	void FixedUpdate() 
 	{
@@ -27,6 +28,7 @@ public class PlayerController : MonoBehaviour {
 		rb.position = origin;
 		count = 0;
 		SetCountText ();
+		winText.text = "";
 	}
 
 	void OnTriggerEnter(Collider other) 
@@ -40,7 +42,7 @@ public class PlayerController : MonoBehaviour {
 
 	void SetCountText() {
 		countText.text = "Count: " + count.ToString ();
-		if (count >= 1) {
+		if (count >= winVal) {
 			winText.text = "You win!";
 		}
 	}

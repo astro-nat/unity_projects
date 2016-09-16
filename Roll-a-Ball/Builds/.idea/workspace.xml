@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e127afab-7f39-4787-8a88-4a277f81f07b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Library/CurrentLayout.dwlt" afterPath="$PROJECT_DIR$/../Library/CurrentLayout.dwlt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Library/ProjectSettings.asset" afterPath="$PROJECT_DIR$/../Library/ProjectSettings.asset" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.dll" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Library/assetDatabase3" afterPath="$PROJECT_DIR$/../Library/assetDatabase3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Library/expandedItems" afterPath="$PROJECT_DIR$/../Library/expandedItems" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Library/metadata/00/00000000000000004000000000000000" afterPath="$PROJECT_DIR$/../Library/metadata/00/00000000000000004000000000000000" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Library/metadata/00/00000000000000006100000000000000" afterPath="$PROJECT_DIR$/../Library/metadata/00/00000000000000006100000000000000" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ProjectSettings/ProjectSettings.asset" afterPath="$PROJECT_DIR$/../ProjectSettings/ProjectSettings.asset" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler0.log" afterPath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler0.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler1.log" afterPath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler1.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler2.log" afterPath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler2.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler3.log" afterPath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler3.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Builds.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -175,6 +163,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e127afab-7f39-4787-8a88-4a277f81f07b" name="Default" comment="" />
